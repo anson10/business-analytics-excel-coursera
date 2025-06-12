@@ -4,8 +4,7 @@ This repository documents my journey through the **Business Analytics with Excel
 
 ## 📚 Course Overview
 
-**Platform:** Coursera  
-**Instructor(s):** [Instructor Name if available]  
+**Platform:** Coursera    
 **Level:** Beginner to Advanced  
 **Tools Used:** Microsoft Excel
 
@@ -31,17 +30,9 @@ This repository documents my journey through the **Business Analytics with Excel
 - Forecasting techniques
 - Dashboards
 
-## 🔍 Sample Work
-
-| Topic | File | Description |
-|-------|------|-------------|
-| Descriptive Stats | `excel-files/descriptive-stats.xlsx` | Summary stats for sample data |
-| Sales Dashboard | `screenshots/sales-dashboard.png` | Final dashboard project with slicers & charts |
-| Regression Model | `excel-files/regression.xlsx` | Predictive model with trend analysis |
-
 ## 🚀 Final Project
 
-*(Add a detailed description of your final project here if applicable — e.g., sales forecasting, customer analysis, etc.)*
+pass
 
 ## 📌 Key Learnings
 
@@ -54,10 +45,10 @@ This repository documents my journey through the **Business Analytics with Excel
 
 | Module | Status |
 |--------|--------|
-| Excel Basics | ✅ |
-| Lookup Functions | ✅ |
-| Pivot Tables | ✅ |
-| Data Visualization | ✅ |
+| Excel Basics | 🔄 In Progress  |
+| Lookup Functions | 🔄 In Progress  |
+| Pivot Tables | 🔄 In Progress  |
+| Data Visualization | 🔄 In Progress  |
 | Regression | 🔄 In Progress |
 
 ---
@@ -66,9 +57,9 @@ This repository documents my journey through the **Business Analytics with Excel
 
 | Date | Activity |
 |------|----------|
-| 2025-06-12 | Repository created |
-| 2025-06-14 | Completed Pivot Table exercises |
-| 2025-06-20 | Uploaded Dashboard screenshots |
+| 12-06-2025 | Repository created |
+| 
+|  
 | ... | ... |
 
 ---
